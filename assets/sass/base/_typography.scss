@@ -1,0 +1,38 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{ font-family: $raleway;}
+
+.texto__uno{
+  font-weight: $extra-light;
+  font-size: $xx-large;
+  color: $white;
+  text-align: center;
+}
+
+.texto__dos{
+  font-weight: $bold;
+  font-size: $xx-large;
+}
+
+.texto__tres{
+  font-weight: $bold;
+  font-size: $large;
+  color: $white;
+  text-align: center;
+}
+
+.texto__cuatro{
+  color: $white;
+  font-size: $medium;
+  padding-left:14rem;
+  padding-right: 14rem;
+}
+
+.texto__desde {
+  color: $gray;
+  font-weight: $bold;
+  font-size: $xx-large;
+}
